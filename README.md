@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Desenvolvedora de Software Full-Stack, graduada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Engenharia de Software. Minha atuação profissional é focada no desenvolvimento de soluções escaláveis, aliando o rigor da engenharia à entrega contínua de valor.<br><br>Atualmente, faço parte da equipe da AEXP Business Games, onde trabalho no desenvolvimento de Business Games. Esse ambiente exige domínio de tecnologias modernas e compreensão da lógica de negócios, o que me proporciona constante evolução profissional.</h5>
+<p align="left">Desenvolvedora de Software Full-Stack, graduada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Engenharia de Software. Minha atuação profissional é focada no desenvolvimento de soluções escaláveis, aliando o rigor da engenharia à entrega contínua de valor.<br><br>Atualmente, faço parte da equipe da AEXP Business Games, onde trabalho no desenvolvimento de Business Games. Esse ambiente exige domínio de tecnologias modernas e compreensão da lógica de negócios, o que me proporciona constante evolução profissional.</p>
 
 ###
 
